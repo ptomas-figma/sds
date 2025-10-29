@@ -60,10 +60,11 @@ export function HeaderAuth() {
   const { isTabletDown } = useMediaQuery();
 
   const navItems = [
-    "Pricing",
+    "Products",
     "Solutions",
     "Community",
     "Resources",
+    "Pricing",
     "Contact",
   ];
 
